@@ -18,9 +18,7 @@ import org.testng.annotations.Test;
 
 
 public class AppiumBasics extends BaseTest{
-	
 
-	
 	@Test
 	public void AppiumTest()
 	{
